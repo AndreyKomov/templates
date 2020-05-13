@@ -1,1 +1,1 @@
-# templates
+andreykomov.github.io/
