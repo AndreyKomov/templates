@@ -1,1 +1,1 @@
-andreykomov.github.io/
+andreykomov.github.io/templates/MintoAFreeMinimal/
