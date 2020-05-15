@@ -135,12 +135,22 @@ nav a {
   position: relative;
   z-index: 2;
   margin: 232px 0 0 0;
+  cursor: pointer;
+}
+
+.left:hover{
+  transform: scale(1.25);
 }
 
 .right {
   position: relative;
   z-index: 2;
   margin: 0 0 0 940px;
+  cursor: pointer;
+}
+
+.right:hover {
+  transform: scale(1.25);
 }
 /* Slider */
 
