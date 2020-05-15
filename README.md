@@ -1,1 +1,1 @@
-[1st](andreykomov.github.io/templates/MintoAFreeMinimal/)
+[1st](https://andreykomov.github.io/templates/MintoAFreeMinimal/)
