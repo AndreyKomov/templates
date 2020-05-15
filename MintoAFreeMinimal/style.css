@@ -117,17 +117,116 @@ nav a {
   margin: 0 auto;
 }
 
-.slider img {
+.first, .second {
   width: 100%;
   height: 100%;
   position: absolute;
   width: 1020px;
   height: 485px;
-}
-
-.first {
   margin: 29px 0 0 0;
 }
 
+.second {
+  display: none;
+}
 
+.left {
+  margin: 0 0 0 0;
+}
+
+.right {
+  margin: 0 0 0 0;
+}
 /* Slider */
+
+/* About Us */
+#about {
+  /* margin: 67px 0 0 440px; */
+  width: 1020px;
+  margin: 67px auto;
+}
+.about_top {
+  width: 1000px;
+  height: 2.5px;
+  background-color: #82699d;
+}
+.about_discription {
+  width: 915px;
+  height: 146px;
+  font-size: 23px;
+  line-height: 36px;
+  color: #82699d;
+  font-family: "Segoe UI";
+  font-style: italic;
+  text-align: center;
+  /* margin: 189px 0 0 160px; */
+}
+
+.about_description, span {
+  font-weight: bold;
+}
+
+.about_bottom {
+  width: 1000px;
+  height: 2.5px;
+  background-color: #82699d;
+}
+
+.content {
+  width: 1000px;
+  height: 279px;
+  margin: 0 auto;
+}
+
+.content_img {
+  margin: -31px 0 0 0;
+}
+
+.content_description {
+  font-size: 31px;
+  line-height: 36px;
+  color: #505051;
+  font-family: "Segoe UI";
+  font-weight: bold;
+  text-align: center;
+  margin: -276px 0 0 122px;
+}
+
+.content_text {
+  width: 627px;
+  height: 160px;
+  font-size: 15px;
+  line-height: 28px;
+  color: #838383;
+  font-family: "Segoe UI";
+  margin: 20px 0 0 364px;
+}
+
+.read_more_link {
+  font-size: 13px;
+  line-height: 36px;
+  color: #82699d;
+  font-family: "Segoe UI";
+  font-style: italic;
+  text-align: center;
+  margin: 0 0 0 825px;
+  text-decoration: none;
+  cursor: pointer;
+}
+/* About Us */
+
+/* Clients */
+.title {
+  font-size: 23px;
+  line-height: 36px;
+  color: #000000;
+  font-family: "Segoe UI";
+  font-weight: 500;
+  text-align: center;
+  margin: 28px 0 0 -687px;
+}
+
+.title span {
+  font-weight: bold;
+}
+/* Clients */
