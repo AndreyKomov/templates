@@ -124,6 +124,7 @@ nav a {
   width: 1020px;
   height: 485px;
   margin: 29px 0 0 0;
+  display: block;
 }
 
 .second {
@@ -223,10 +224,48 @@ nav a {
   font-family: "Segoe UI";
   font-weight: 500;
   text-align: center;
-  margin: 28px 0 0 -687px;
+  margin: 28px 0 0 -50px;
 }
 
 .title span {
   font-weight: bold;
 }
+
+.forward {
+  color: #b2abab;
+}
+
+.clients_logo {
+  margin: 35px 0 0 227px;
+}
 /* Clients */
+
+/* Footer */
+footer {
+  height: 70px;
+  background-color: #e6e6e6;
+  margin: 84px -14px;
+}
+
+.copyright {
+  width: 500px;
+  display: flex;
+  margin: 27px 0 0 209px;
+}
+
+.facebook {
+  display: grid;
+  margin: -25px 0 0 1142px;
+}
+
+.twitter {
+  display: block;
+  margin: -30px 0 0 1198px;
+}
+
+.footer_bottom {
+  height: 7px;
+  background-color: #82699d;
+  margin: 15px auto;
+}
+/* Footer */
