@@ -1,0 +1,73 @@
+header {
+  width: 1274px;
+  /* background-image: url(img/background.png); */
+  position: relative;
+  ;
+}
+
+.phone_number {
+  margin: -38px -670px 0 0;
+  font-size: 21px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 800;
+}
+
+.callback {
+  margin: -45px -945px 0 0;
+  font-size: 12px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+}
+
+.path {
+  margin: 10px 0px 0px 731px;
+  z-index: 2;
+  /* height: 50px;
+  width: 220px;
+  border: solid rgba(197, 156, 108, 255); */
+}
+
+
+.menu {
+  margin-top: -55px;
+}
+
+.menu a {
+  font-size: 20px;
+  color: #c69c6d;
+  /* font-family: "Proxima Nova"; */
+  font-weight: 300;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu a:hover {
+  width: 125px;
+  height: 80px;
+  background-color: rgba(130, 90, 147, 255);
+  cursor: pointer;
+  background-image: url(img/active_shape.png);
+}
+
+.about_us {
+  margin-right: 100px;
+  margin-left: 50px;
+}
+
+.servises {
+  margin-right: 400px;
+}
+
+.comments {
+  margin-right: 100px;
+}
+
+.logo {
+  margin-top: -100px;
+}
+
+.line {
+  width: 1274px;
+}

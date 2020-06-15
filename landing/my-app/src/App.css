@@ -1,0 +1,13 @@
+.App {
+  margin: auto;
+  text-align: center;
+  width: 1274px;
+  background-image: url(img/background.png);
+  position: absolute;
+}
+
+.persefona {
+  margin-left: 50px;
+  margin-top: 500px;
+}
+

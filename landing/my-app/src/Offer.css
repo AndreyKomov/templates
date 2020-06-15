@@ -1,0 +1,30 @@
+.about_offer p {
+  margin-left: 219px;
+  font-size: 56px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 800;
+  text-align: left;
+}
+
+.law_second {
+  margin-top: -75px;
+}
+
+.vertical_line {
+  margin-left: -850px;
+  margin-top: -50px;
+}
+
+.law_discription {
+  margin-left: 225px;
+  margin-top: -150px;
+  width: 429px;
+  height: 304px;
+  font-size: 16px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+  text-align: left;
+}
+
