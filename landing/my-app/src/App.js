@@ -8,7 +8,7 @@ import Persefona from './Persefona';
 function App() {
   return (
     <div className="App">
-      <Persefona className="persefona"></Persefona>
+      {/* <Persefona className="persefona"></Persefona> */}
       <Header></Header>
       <Offer></Offer>
     </div>

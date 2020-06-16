@@ -26,5 +26,19 @@
   font-family: "Proxima Nova";
   font-weight: 300;
   text-align: left;
+  line-height: 19px;
+}
+
+.button_click {
+  margin-top: -45px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 500;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: progress;
+  display: flex;
 }
 

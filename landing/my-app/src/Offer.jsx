@@ -1,5 +1,6 @@
 import React from "react";
 import Vline from "./img/line.png";
+import Button from "./img/button.png";
 import "./Offer.css";
 
 class Offer extends React.Component {
@@ -22,6 +23,8 @@ class Offer extends React.Component {
             Наши специалисты внимательно следят за изменениями в российском законодательстве и всегда готовы помочь Вам
             в решении самых сложных задач.
           </p>
+          <img className="confirm_button" src={Button} alt="button.png"></img>
+          <a className="button_click" href="#">проконсультироваться бесплатно</a>
         </div>
       </div>
 

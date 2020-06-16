@@ -5,6 +5,9 @@ header {
   ;
 }
 
+.phone {
+  margin-left: -240px;
+}
 .phone_number {
   margin: -38px -670px 0 0;
   font-size: 21px;
@@ -14,7 +17,7 @@ header {
 }
 
 .callback {
-  margin: -45px -945px 0 0;
+  margin: -45px -719px 0 0;
   font-size: 12px;
   color: #ffffff;
   font-family: "Proxima Nova";

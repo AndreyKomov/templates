@@ -4,10 +4,12 @@
   width: 1274px;
   background-image: url(img/background.png);
   position: absolute;
+  z-index: 1;
 }
 
 .persefona {
   margin-left: 50px;
   margin-top: 500px;
+  z-index: 0;
 }
 
