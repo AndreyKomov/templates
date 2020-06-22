@@ -1,0 +1,33 @@
+.services {
+  width: 1274px;
+  height: 625px;
+  background-image: url(img/back_shape.png);
+}
+
+.work {
+  margin-top: 10px;
+  margin-left: 355px;
+}
+
+.title {
+  margin-top: 10px;
+  margin-left: 319px;
+}
+
+.title li {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+  text-align: left;
+}
+
+.title p {
+  margin-left: -25px;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+}

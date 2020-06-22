@@ -38,7 +38,7 @@
   font-weight: 500;
   text-transform: uppercase;
   text-decoration: none;
-  cursor: progress;
+  cursor: pointer;
   display: flex;
 }
 
