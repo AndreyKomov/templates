@@ -1,6 +1,7 @@
 import React from "react";
 import Background from "./img/back_shape.png";
 import Work from "./img/we_work.png";
+import Button2 from "./img/button2.png";
 import "./Services.css";
 
 class Services extends React.Component {
@@ -10,6 +11,12 @@ class Services extends React.Component {
         <header className="we_work">
           <img className="work" src={Work} alt="we_work.png"></img>
         </header>
+        <img className="button2" src={Button2} alt="button2.png"></img>
+        <a href="#" className="register">записаться</a>
+        <div className="register_text">
+          <p>Запишитесь на консультацию</p>
+          <p>со специалистом</p>
+        </div>
         <ul className="title"><p>гражданские дела</p>
           <li>семейные</li>
           <li>жилищные</li>

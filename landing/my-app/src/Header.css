@@ -53,6 +53,7 @@ header {
   cursor: pointer;
   background: url(img/active_shape.png);
   background-repeat: no-repeat;
+  z-index: 10;
 }
 
 .about_us {
