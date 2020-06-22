@@ -47,11 +47,12 @@ header {
 }
 
 .menu a:hover {
-  width: 125px;
+  /* width: 125px;
   height: 80px;
-  background-color: rgba(130, 90, 147, 255);
+  background-color: rgba(130, 90, 147, 255); */
   cursor: pointer;
-  background-image: url(img/active_shape.png);
+  background: url(img/active_shape.png);
+  background-repeat: no-repeat;
 }
 
 .about_us {

@@ -2,6 +2,7 @@
   width: 1274px;
   height: 625px;
   background-image: url(img/back_shape.png);
+  z-index: 1;
 }
 
 .work {
@@ -30,4 +31,26 @@
   font-weight: bold;
   text-transform: uppercase;
   text-align: left;
+}
+
+.list{
+  margin-top: 10px;
+  margin-left: 330px;
+}
+
+.list p {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.list a:hover {
+  margin-top: 10px;
+  margin-left: 319px;
+  background: url(img/active_hover.png);
+  background-repeat: no-repeat;
+  z-index: 5;
 }
