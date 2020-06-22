@@ -33,23 +33,24 @@
   text-align: left;
 }
 
-.list{
+.list {
   margin-top: 10px;
   margin-left: 330px;
+  text-align: left;
 }
 
-.list p {
+.list a {
   font-size: 20px;
   color: #ffffff;
   font-family: "Proxima Nova";
   font-weight: bold;
   text-transform: uppercase;
-  text-align: left;
+  /* text-align: left; */
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .list a:hover {
-  margin-top: 10px;
-  margin-left: 319px;
   background: url(img/active_hover.png);
   background-repeat: no-repeat;
   z-index: 5;
