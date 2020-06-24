@@ -4,6 +4,7 @@ import Header from './Header';
 import Offer from './Offer';
 import Persefona from './Persefona';
 import Services from './Services';
+import Advantages from './Advantages';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header></Header>
       <Offer></Offer>
       <Services></Services>
+      <Advantages></Advantages>
     </div>
   );
 }
