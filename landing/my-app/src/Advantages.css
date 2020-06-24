@@ -16,6 +16,10 @@
   text-align: left;
   line-height: 10px;
 }
+
+.advantages_images{
+  list-style-type: none;
+}
  .colum {
    /* position: relative; */
  }
@@ -41,10 +45,40 @@
 
 .img_text_1st {
   margin-top: -265px;
-  margin-left: 60px;
+  margin-left: 198px;
+}
+
+.img_text_2nd {
+  margin-top: -265px;
+  margin-left: 20px;
+}
+
+.img_text_3rd {
+  margin-top: -265px;
+  margin-left: 20px;
+}
+
+.img_text_4th {
+  margin-top: -265px;
+  margin-left: 20px;
 }
 
 .img_1st {
-  margin-top: 10px;
-  margin-left: 150px;
+  margin-top: 83px;
+  margin-left: 185px;
+}
+
+.img_2nd {
+  margin-top: 83px;
+  margin-left: 10px;
+}
+
+.img_3rd {
+  margin-top: 66px;
+  margin-left: 10px;
+}
+
+.img_4th {
+  margin-top: -20px;
+  margin-left: 10px;
 }

@@ -1,0 +1,26 @@
+.feedback_content {
+  width: 1274px;
+  height: 694px;
+  background: url(img/feedback_background.png);
+  background-repeat: no-repeat;
+}
+
+.photo {
+  margin-left: 349px;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  opacity: 0.85;
+}
+
+.photo_10 {
+  margin-top: 129px;
+}
+
+.photo_20 {
+  margin-top: -35px;
+  margin-left: 59px;
+}
+
+.photo_30 {
+  margin-top: -198px;
+}
