@@ -13,7 +13,32 @@ class Feedback extends React.Component {
         <img className="photo_20" src={Photo20} alt="photo20.png"></img>
         <img className="photo_30" src={Photo30} alt="photo30.png"></img>
         </div>
+
+        <div className="feedback_text10">
+          <p className="text10">Иванова Мария, 27 лет</p>
+          <p className="text10">директор рекламного агентства</p>
+          <p className="text10">“Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. aliqua.”
+           03/02/15</p>
+        </div>
         
+        <div className="feedback_text20">
+          <p className="text20">Иванова Мария, 27 лет</p>
+          <p className="text20">директор рекламного агентства</p>
+          <p className="text20">“Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. aliqua.”
+           03/02/15</p>
+        </div>
+
+        <div className="feedback_text30">
+          <p className="text10">Иванова Мария, 27 лет</p>
+          <p className="text10">директор рекламного агентства</p>
+          <p className="text10">“Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. aliqua.”
+           03/02/15</p>
+        </div>
+
+        <h1 className="more">ещё...</h1>
       </div>
     )
   }

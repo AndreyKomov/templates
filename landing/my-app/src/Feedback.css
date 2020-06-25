@@ -9,18 +9,69 @@
   margin-left: 349px;
   display: grid;
   grid-template-rows: 1fr 1fr 1fr;
-  opacity: 0.85;
+  opacity: 0.75;
 }
 
 .photo_10 {
   margin-top: 129px;
+  z-index: 2;
+  position: relative;
 }
 
 .photo_20 {
   margin-top: -35px;
   margin-left: 59px;
+  position: relative;
+  z-index: 1;
 }
 
 .photo_30 {
   margin-top: -198px;
+}
+
+.feedback_text10 {
+  margin-top: -800px;
+  margin-left: 530px;
+  position: absolute;
+}
+
+.text10 {
+  width: 298px;
+  font-size: 12px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+  line-height: 10px;
+  text-align: left;
+  line-height: 19px;
+}
+
+.feedback_text20 {
+  margin-top: -645px;
+  margin-left: 510px;
+  position: absolute;
+}
+
+.text20 {
+  width: 298px;
+  font-size: 12px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+  line-height: 10px;
+  text-align: right;
+  line-height: 19px;
+}
+
+.feedback_text30 {
+  margin-top: -485px;
+  margin-left: 530px;
+  position: absolute;
+}
+
+.more {
+  margin-top: -325px;
+  font-size: 29px;
+  color: #594aaf;
+  font-family: "Proxima Nova";
 }
