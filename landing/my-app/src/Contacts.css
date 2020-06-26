@@ -59,6 +59,7 @@
   width: 239px;
   height: 48px;
   background: url(img/submit.png);
+  cursor: pointer;
 }
 
 .contacts_phone {

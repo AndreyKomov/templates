@@ -7,6 +7,7 @@ import Services from './Services';
 import Advantages from './Advantages';
 import Feedback from './Feedback';
 import Contacts from './Contacts';
+import Footer from './Footer';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Advantages></Advantages>
       <Feedback></Feedback>
       <Contacts></Contacts>
+      <Footer></Footer>
     </div>
   );
 }
