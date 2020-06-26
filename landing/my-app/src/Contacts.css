@@ -1,0 +1,60 @@
+.contacts_envelope {
+  width: 1274px;
+  height: 620px;
+}
+
+.contacts_title {
+  margin-left: 325px;
+  font-size: 56px;
+  color: #ffffff;
+  /* font-family: "Proxima Nova"; */
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.contacts_form {
+  margin-top: -100px;
+  margin-left: 690px;
+  width: 398px;
+  height: 347px;
+  background: url(img/form_background.png);
+  background-repeat: no-repeat;
+}
+
+.consultation {
+  margin-right: 50px;
+  padding-top: 25px;
+  font-size: 29px;
+  color: #594aaf;
+  /* font-family: "Proxima Nova"; */
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.contacts_name,
+.contacts_phone {
+  width: 240px;
+  height: 30px;
+  background-color: rgba(230, 230, 230, 255);
+  border: rgba(230, 230, 230, 255);
+  font-size: 20px;
+  color: #666666;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+}
+
+.contacts_name {
+  margin-top: 19px;
+}
+
+.contacts_submit {
+  margin-top: 10px;
+  width: 239px;
+  height: 48px;
+  background: url(img/submit.png);
+}
+
+.contacts_phone {
+  margin-top: 10px;
+}

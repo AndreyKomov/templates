@@ -6,6 +6,7 @@ import Persefona from './Persefona';
 import Services from './Services';
 import Advantages from './Advantages';
 import Feedback from './Feedback';
+import Contacts from './Contacts';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Services></Services>
       <Advantages></Advantages>
       <Feedback></Feedback>
+      <Contacts></Contacts>
     </div>
   );
 }
