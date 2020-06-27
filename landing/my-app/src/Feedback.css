@@ -74,4 +74,7 @@
   font-size: 29px;
   color: #594aaf;
   font-family: "Proxima Nova";
+  text-decoration: none;
+  cursor: pointer;
+  position: absolute;
 }

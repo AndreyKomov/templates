@@ -38,7 +38,7 @@ class Feedback extends React.Component {
            03/02/15</p>
         </div>
 
-        <h1 className="more">ещё...</h1>
+        <a href="#" className="more">ещё...</a>
       </div>
     )
   }
