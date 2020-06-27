@@ -8,3 +8,45 @@
   margin-top: 19px;
   margin-left: -455px;
 }
+
+.phone_button {
+  margin-top: -105px;
+  margin-left: 559px;
+}
+
+.footer_phone_number {
+  margin-top: -43px;
+  margin-left: -70px;
+  font-size: 21px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 800;
+}
+
+.footer_callback {
+  margin-top: -50px;
+  margin-left: 434px;
+  font-size: 12px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+  text-align: left;
+}
+
+.footer_email {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Proxima Nova";
+  font-weight: 300;
+  text-align: right;
+}
+
+.footer_email_first {
+  margin-top: 10px;
+  margin-right: 200px;
+}
+
+.footer_email_second {
+  margin-top: -10px;
+  margin-right: 200px;
+}
