@@ -30,6 +30,7 @@ class Header extends React.Component{
           <a className="contacts" href="#">контакты</a>
         </nav>
         <img className="logo" src={Logo} alt="logo"></img>
+        <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A2398b0ae2fee7653c481e4d7ec5aa1c29c41500d4a18419363549a5e30f45efb&amp;width=710&amp;height=396&amp;lang=ru_RU&amp;scroll=true"></script>
       </header>
     )
   }
